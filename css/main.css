@@ -1,0 +1,91 @@
+.primera-parte{
+	padding: 1% 6%;
+}
+
+
+.boton{
+	width: 35%;
+	height: 28px;
+	background-color: #131313;
+	border-radius: 3px;
+	text-align: center;
+	color: black;
+	padding: 6px;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-decoration: none;
+	list-style: none;
+	margin-top: 2%;
+}
+
+ul, li,  a {
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;
+	margin: 5px 5px 5px 2px;
+    text-align: center;
+	color: black;
+	font-size: 15px;
+	font-family: 'Montserrat';
+}
+
+.banner{
+	background-image: url(../fotos/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 10%;
+	font-family: 'Montserrat';
+	font-size: 18px;
+}
+
+.icon{
+	width: 5%;
+}
+
+.segunda-parte{
+	background-color: #E6E6E3;
+	text-align: center;
+
+}
+.ejemplo-uno{
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 450px;
+	margin-top: 7%;
+	margin-bottom: 7%;
+	color: #87878B;
+
+}
+.portafolio{
+	width: 100%;	
+	padding: 4% 5%;	
+	color: #CCCDCA;
+
+}
+
+.lee{
+	width: 100%;
+	height: 28px;
+	background-color: #647BCD;
+	border-radius: 3px;
+	text-align: center;
+	color: black;
+	padding: 6px;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-decoration: none;
+	list-style: none;
+	margin-top: 2%;
+}
+
+footer{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 1% 5%;
+	font-size: 12px;
+}
+/* Inserte su codigo aqui */
